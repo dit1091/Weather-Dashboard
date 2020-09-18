@@ -5,3 +5,4 @@ This is a program designed to work as a weather dashboard. It allows a user to s
 Weather Dashboard Program: https://dit1091.github.io/Weather-Dashboard/ 
 
 Screenshots:
+<img src="images/Miami.jpeg" alt="Miami">
