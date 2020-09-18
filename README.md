@@ -7,6 +7,6 @@ Weather Dashboard Program: https://dit1091.github.io/Weather-Dashboard/
 Screenshots:
 <img src="images/Miami.jpeg" alt="Miami">
 
-<img src="images/Kansas City.jpeg" alt="Miami">
+<img src="images/Kansas City.jpeg" alt="Kansas City">
 
-<img src="images/Toyko.jpeg" alt="Miami">
+<img src="images/Tokyo.jpeg" alt="Tokyo">
